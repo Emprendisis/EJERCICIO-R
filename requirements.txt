@@ -1,3 +1,0 @@
-streamlit>=1.33
-pandas>=1.5,<3.0
-openpyxl
